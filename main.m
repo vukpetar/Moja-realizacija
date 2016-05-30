@@ -1,4 +1,5 @@
 clear all
+clc
 X = []; Y=[];
 figure;
 trainPoints=X;
